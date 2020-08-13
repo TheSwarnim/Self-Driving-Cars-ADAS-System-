@@ -3,7 +3,7 @@
 ### 
 1. ResearchGate car and pedestrain dataset is used for training the model
 2. Classification algorithm is used for training the model
-3. ScikitLearn library is used for training the model
+3. Tensorflow is used for training the model
 4. OpenCV2 is used for computer vision
 
 ## Demo images:-
